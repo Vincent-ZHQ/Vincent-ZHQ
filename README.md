@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+[![Vincent-ZHQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vincent-ZHQ&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Vincent-ZHQ/Vincent-ZHQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
